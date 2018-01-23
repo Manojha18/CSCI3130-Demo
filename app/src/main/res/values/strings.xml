@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="Edit_message">Enter your message</string>
+    <string name="button_send">Bingo!</string>
 </resources>
